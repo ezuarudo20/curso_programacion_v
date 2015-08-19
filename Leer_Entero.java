@@ -1,7 +1,8 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
- 
+ //Eduardo Diaz del Castillo...
+//Programa que lea un numero entero con una exepcion.
 class Leer_Entero { 
   public static void main( String args[] ) throws IOException { 
     try { 
