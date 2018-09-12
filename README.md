@@ -1,4 +1,4 @@
-# curso_programacion_v
-codigo de curso programacion v
+# Programa de lectura de numero entero
+Lenguaje de programacion -- Java
 
---EN CONSTRUCCION--
+
